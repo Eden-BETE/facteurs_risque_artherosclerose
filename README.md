@@ -26,7 +26,7 @@ L'objectif de cette analyse est d'explorer l'impact des différents facteurs de 
 
 Pour accéder à l'analyse complète avec graphiques et interprétations, cliquez sur le lien ci-dessous :
 
-**[Analyse complète en HTML](facteurs_risque_artherosclerose/bete_eden_intima_rapport.html)
+**[Analyse complète en HTML](bete_eden_intima_rapport.html)
 )**
 
 ---
