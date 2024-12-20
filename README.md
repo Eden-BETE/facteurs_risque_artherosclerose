@@ -26,9 +26,6 @@ L'objectif de cette analyse est d'explorer l'impact des différents facteurs de 
 
 Pour accéder à l'analyse complète avec graphiques et interprétations, cliquez sur le lien ci-dessous :
 
-**[Analyse complète en HTML](bete_eden_intima_rapport.html)
+**[Analyse complète en HTML](bete_eden_intima_rapport.md)
 )**
 
----
-
-N’hésite pas à modifier le lien vers ton fichier HTML une fois qu'il sera disponible en ligne. Si tu veux, je peux aussi t’aider à héberger le fichier sur GitHub Pages pour un accès direct via un navigateur. 😊
